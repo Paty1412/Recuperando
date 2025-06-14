@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+backend
+
+# Expo / React Native
+.expo/
+.expo-shared/
+dist/
+web-build/
+ios/
+android/
+*.jks
+
+# React Native & Metro
+*.packager.js
+*.flow
+*.vscode/
+__tests__/
+coverage/
+*.log
+
+# IDEs e editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ambiente
+.env
+.env.* 
+
+# Logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários
+tmp/
+temp/
+.cache/
