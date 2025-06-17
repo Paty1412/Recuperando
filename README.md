@@ -80,7 +80,7 @@ npm install -g expo-cli
 ### 1. Clone o repositório
 
 ```bash
-git clone (https://github.com/Paty1412/seu-repositorio.githttps://github.com/Paty1412/Recuperando.git/')
+git clone [(https://github.com/Paty1412/seu-repositorio.githttps://github.com/Paty1412/Recuperando.git/')](https://github.com/Paty1412/Recuperando.git)
 
 ```
 
