@@ -13,7 +13,7 @@ app.use(express.json({ limit: '10mb' }));
 
 app.use('/obras', obraRoutes);
 app.use('/fiscalizacoes', fiscalizacaoRoutes);
-app.use('/obras', require('./routes/obrasRoutes'));
+app.use('/obras', require('./routes/obraRoutes'));
 
 // Listar fiscalizações por obra
 const Fiscalizacao = require('./models/fiscalizacao'); // corrigido aqui, caminho relativo e minúsculo

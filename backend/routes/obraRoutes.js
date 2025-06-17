@@ -9,6 +9,6 @@ router.put('/:id', obraController.atualizarObra);
 router.delete('/:id', obraController.deletarObra);
 
 // Rota para enviar email com detalhes da obra
-router.post('/:id/enviar-email', obrasController.enviarDetalhesPorEmail);
+router.post('/:id/enviar-email', obraController.enviarDetalhesPorEmail);
 
 module.exports = router;
